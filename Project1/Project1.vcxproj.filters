@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Test_malloc.cpp">
+    <ClCompile Include="Gcd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
