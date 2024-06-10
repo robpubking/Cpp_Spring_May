@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sum_string.cpp">
+    <ClCompile Include="Magic_Square.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
