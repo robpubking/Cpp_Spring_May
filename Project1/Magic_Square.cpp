@@ -16,7 +16,7 @@ int main(void) {
     while (flag)
     {
 
-        cout << "please enter an odd intger: " << endl;
+        cout << "please enter an odd integer: " << endl;
         cin >> n;
         if (n % 2 == 1)
         {
