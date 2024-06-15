@@ -9,9 +9,9 @@ int result = 0;
 int main(void) 
 {
 
-	int arr[10] = { -4, -8, -5, -6, -12, -2, -1, -3, -5, -11 };
+	int arr[9] = { -2,1,-3,4,-1,2,1,-5,4 };
 
-	int n = max_sub(arr, 10);
+	int n = max_sub(arr, 9);
 
 	cout << "n is : " << n << endl;
 
